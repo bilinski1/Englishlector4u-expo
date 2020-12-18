@@ -1,5 +1,5 @@
 # englishlector4u-expo
-expo
+Englishlector4u expo platform
 
 
 
